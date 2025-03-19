@@ -166,4 +166,5 @@ const App = () => {
 };
 
 //export default App;
+// its helps tomextract the data
 export App;
